@@ -22,6 +22,10 @@ title: /vejir
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+header_pages:
+	- index.md
+	- about.md
+
 # Build settings
 remote_theme: b2a3e8/jekyll-theme-console
 plugins:
