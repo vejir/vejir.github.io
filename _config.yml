@@ -28,7 +28,7 @@ header_pages:
   - about.markdown
   
 # Build settings
-remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: huangyz0918/moving
 plugins:
   - jekyll-feed
 
